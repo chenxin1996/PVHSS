@@ -1,0 +1,3 @@
+/home/chenxin/CLionProjects/BKS/cmake-build-debug/CMakeFiles/BKS.dir
+/home/chenxin/CLionProjects/BKS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chenxin/CLionProjects/BKS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
