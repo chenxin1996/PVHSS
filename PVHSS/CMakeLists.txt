@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+project(PVHSS)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(PVHSS main.cpp  tool.h GenData.h PVHSS.h  PKE.h   function.h PVHSS.h)
+target_link_libraries(PVHSS libgmp.so libflint.so libpbc.so m.so librelic.so /usr/local/lib/libntl.so)
