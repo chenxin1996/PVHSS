@@ -1,3 +1,0 @@
-/home/chenxin/CLionProjects/PVHSS/cmake-build-debug/CMakeFiles/PVHSS.dir
-/home/chenxin/CLionProjects/PVHSS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/chenxin/CLionProjects/PVHSS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
